@@ -20,8 +20,10 @@ class revealBox {
         ));
     }
 
-    function blockHTML() {
-        return 'Front End';
+    function blockHTML($attributes) {
+        return <<<HTML
+        <h3>This is what I said; {$attributes['newInfo']}</h3>
+        HTML;
     }
 }
 
