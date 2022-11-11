@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACI;EACA;AACJ,C","sources":["webpack://box-reveal-plugin/./src/index.scss"],"sourcesContent":["html {\n    padding: 0;\n    margin: 0;\n}"],"names":[],"sourceRoot":""}
