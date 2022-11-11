@@ -8,6 +8,7 @@
     "description": "A great starting place for a Gutenberg block",
     "keywords": [ "information", "display" ],
     "version": "1.0.0",
+    "textdomain": "basicblockplugin",
     "editorScript": "file:./build/index.js",
     "script": "file:./build/script.js",
     "viewScript": [ "file:./build/view.js", "example-shared-view-script" ],
