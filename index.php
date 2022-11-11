@@ -1,7 +1,7 @@
 <?php
 /**
-* Plugin Name: Box Reveal Plugin
-* Description: When clicked or tapped details appear.
+* Plugin Name: Basic Gutenbery Block
+* Description: Great starting place for creating a Gutenberg block.
 * Author: Mark Tank
 * Author URL: https/linkedin.com
 * Version: 1.0.0
